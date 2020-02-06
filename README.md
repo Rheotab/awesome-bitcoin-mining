@@ -24,14 +24,14 @@ Rules :
 
 ---
 ### Group adresses as users 
-- Automatic Bitcoin Address Clustering . 
-- An Investigatory Project on the Anonymity of Blockchain and Cryptocurrencies . 
-- Research and challenges on bitcoin anonymity . 
-- A graph-based investigation of bitcoin transactions . 
-- Toward De-Anonymizing Bitcoin by Mapping Users Location . 
-- Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis . 
-- Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain . 
-- The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships . 
+- [Automatic Bitcoin Address Clustering](https://ieeexplore.ieee.org/abstract/document/8260674)
+- [An Investigatory Project on the Anonymity of Blockchain and Cryptocurrencies](https://ieeexplore.ieee.org/abstract/document/8688035) . 
+- [Research and challenges on bitcoin anonymity](https://link.springer.com/chapter/10.1007/978-3-319-17016-9_1). 
+- [A graph-based investigation of bitcoin transactions](https://link.springer.com/chapter/10.1007/978-3-319-24123-4_5) . 
+- [Toward De-Anonymizing Bitcoin by Mapping Users Location](https://dl.acm.org/doi/abs/10.1145/2699026.2699128) . 
+- [Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis](https://ieeexplore.ieee.org/abstract/document/8467371). 
+- [Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550). 
+- [The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships](https://www.emerald.com/insight/content/doi/10.1108/JRF-03-2017-0059/full/html). 
 
 ##### Using the Transaction Graph
 - A fistful of bitcoins: characterizing payments among men with no names . 

@@ -4,7 +4,7 @@ This repository aims to create a usefull bibliography if you don't know where to
   
 Rules :  
 - Provide hyperlink when you can.
-- Provide a short description of the reference, you can always use keywords if you are not an imaginative person.
+- Provide a short description of the reference if needed.
 - No duplicate.
 - Every type of sources accepted (book, articles, blog, ...).
 

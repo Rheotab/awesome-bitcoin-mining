@@ -24,30 +24,30 @@ Rules :
 
 ---
 ### Group adresses as users 
--Automatic Bitcoin Address Clustering
--An Investigatory Project on the Anonymity of Blockchain and Cryptocurrencies
--Research and challenges on bitcoin anonymity
--A graph-based investigation of bitcoin transactions
--Toward De-Anonymizing Bitcoin by Mapping Users Location
--Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis
--Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain
--The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships
+- Automatic Bitcoin Address Clustering . 
+- An Investigatory Project on the Anonymity of Blockchain and Cryptocurrencies . 
+-Research and challenges on bitcoin anonymity . 
+-A graph-based investigation of bitcoin transactions . 
+-Toward De-Anonymizing Bitcoin by Mapping Users Location . 
+-Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis . 
+-Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain . 
+-The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships . 
 
 ##### Using the Transaction Graph
--A fistful of bitcoins: characterizing payments among men with no names
--An analysis of anonymity in the bitcoin system 
--Structure and anonymity of the bitcoin transaction graph 
--Tracking bitcoin users activity using community detection on a network of weak signals
--Characterizing entities in the bitcoin blockchain
--Identifying Bitcoin Users Using Deep Neural Network
--The Unreasonable Effectiveness of Address Clustering
--Deanonymization and linkability of cryptocurrency transactions based on network analysis
+- A fistful of bitcoins: characterizing payments among men with no names . 
+- An analysis of anonymity in the bitcoin system . 
+- Structure and anonymity of the bitcoin transaction graph . 
+- Tracking bitcoin users activity using community detection on a network of weak signals . 
+- Characterizing entities in the bitcoin blockchain . 
+- Identifying Bitcoin Users Using Deep Neural Network . 
+- The Unreasonable Effectiveness of Address Clustering . 
+- Deanonymization and linkability of cryptocurrency transactions based on network analysis . 
 
 ##### Other Techniques 
--An analysis of anonymity in bitcoin using p2p network traffic 
--Deanonymisation of clients in Bitcoin P2P network
--A Bayesian approach to identify Bitcoin users
--Identifying Bitcoin users by transaction behavior
+- An analysis of anonymity in bitcoin using p2p network traffic . 
+- Deanonymisation of clients in Bitcoin P2P network . 
+- A Bayesian approach to identify Bitcoin users . 
+- Identifying Bitcoin users by transaction behavior . 
 
 ---
 ### Prediction on what a supposed user do

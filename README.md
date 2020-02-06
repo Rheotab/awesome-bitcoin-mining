@@ -53,3 +53,8 @@ Rules :
 ### Prediction on what a supposed user do
 - [Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50331/paper0444.pdf)
   This article presents some supervised ML techniques used on Bitcoin clusters. They used labeled data provided by private sector. 
+
+---
+### Anomaly detection 
+- [Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods](https://arxiv.org/abs/1611.03941)
+  K-means, feature extractions, 

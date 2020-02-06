@@ -26,12 +26,12 @@ Rules :
 ### Group adresses as users 
 - Automatic Bitcoin Address Clustering . 
 - An Investigatory Project on the Anonymity of Blockchain and Cryptocurrencies . 
--Research and challenges on bitcoin anonymity . 
--A graph-based investigation of bitcoin transactions . 
--Toward De-Anonymizing Bitcoin by Mapping Users Location . 
--Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis . 
--Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain . 
--The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships . 
+- Research and challenges on bitcoin anonymity . 
+- A graph-based investigation of bitcoin transactions . 
+- Toward De-Anonymizing Bitcoin by Mapping Users Location . 
+- Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis . 
+- Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain . 
+- The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships . 
 
 ##### Using the Transaction Graph
 - A fistful of bitcoins: characterizing payments among men with no names . 

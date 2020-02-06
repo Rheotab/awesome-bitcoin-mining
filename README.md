@@ -8,19 +8,21 @@ Rules :
 - No duplicate.
 - Every type of sources accepted (book, articles, blog, ...).
 
-
+---
 ### Bitcoin generality 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
   Original white paper from Satoshi Nakamoto.
-
+  
+---
 ### Machine Learning 
 - [Practical machine learning for blockchain datasets understanding](https://medium.com/intotheblock/practical-machine-learning-for-blockchain-datasets-understanding-semi-and-omni-supervised-learning-2a2611695b2)
   This article gives informations about ML techniques applicable on blockchain data (with blockchain constraints).
 
+---
 ### Miscellaneous
 
 
-
+---
 ### Group adresses as users 
 -Automatic Bitcoin Address Clustering
 -An Investigatory Project on the Anonymity of Blockchain and Cryptocurrencies
@@ -47,6 +49,7 @@ Rules :
 -A Bayesian approach to identify Bitcoin users
 -Identifying Bitcoin users by transaction behavior
 
+---
 ### Prediction on what a supposed user do
 - [Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50331/paper0444.pdf)
   This article presents some supervised ML techniques used on Bitcoin clusters. They used labeled data provided by private sector. 

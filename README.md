@@ -30,8 +30,6 @@ Rules :
 - [A graph-based investigation of bitcoin transactions](https://link.springer.com/chapter/10.1007/978-3-319-24123-4_5) . 
 - [Toward De-Anonymizing Bitcoin by Mapping Users Location](https://dl.acm.org/doi/abs/10.1145/2699026.2699128) . 
 - [Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis](https://ieeexplore.ieee.org/abstract/document/8467371). 
-- [Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550). 
-- [The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships](https://www.emerald.com/insight/content/doi/10.1108/JRF-03-2017-0059/full/html). 
 
 ##### Using the Transaction Graph
 - A fistful of bitcoins: characterizing payments among men with no names . 
@@ -49,10 +47,11 @@ Rules :
 - A Bayesian approach to identify Bitcoin users . 
 - Identifying Bitcoin users by transaction behavior . 
 
----
-### Prediction on what a supposed user do
-- [Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50331/paper0444.pdf)
-  This article presents some supervised ML techniques used on Bitcoin clusters. They used labeled data provided by private sector. 
+### What is doing users on bitcoin blockchain ?
+- [The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships](https://www.emerald.com/insight/content/doi/10.1108/JRF-03-2017-0059/full/html). 
+  Use input adress heuristic for clustering adress. Identify clusters as entity (online known identity). Three stage separation of bitcoin timeline (2009 - 2015). "Unknown -> Illegal -> Legal". 
+- [Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550). 
+This article presents some supervised ML techniques used on Bitcoin clusters. They used labeled data provided by private sector.  
 
 ---
 ### Anomaly detection 

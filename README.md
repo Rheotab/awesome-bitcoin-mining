@@ -51,7 +51,7 @@ Rules :
 
 ### What is doing users on bitcoin blockchain ?
 - [The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships](https://www.emerald.com/insight/content/doi/10.1108/JRF-03-2017-0059/full/html). 
-  Use input adress heuristic for clustering adress. Identify clusters as entity (online known identity). Three stage separation of bitcoin timeline (2009 - 2015). "prototype -> sin enterprise -> legitimate enterprise". 
+  Use input adress heuristic for clustering adress. Identify clusters as entity (online known identity). Three stages separation of bitcoin timeline (2009 - 2015). "prototype -> sin enterprise -> legitimate enterprise". 
 - [Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550). 
 This article presents some supervised ML techniques used on Bitcoin clusters. They used labeled data provided by private sector.  
 

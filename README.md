@@ -20,6 +20,9 @@ Rules :
 - [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813) 
   Balance dataset with under/over-sampled class (minorities for example).
   
+##### Graph Embedding 
+[Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829) Representationnal Learning. Can be used to find feature in graph/ subgraph.
+  
 ---
 ### Miscellaneous
 

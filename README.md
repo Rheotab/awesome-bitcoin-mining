@@ -17,7 +17,9 @@ Rules :
 ### Machine Learning 
 - [Practical machine learning for blockchain datasets understanding](https://medium.com/intotheblock/practical-machine-learning-for-blockchain-datasets-understanding-semi-and-omni-supervised-learning-2a2611695b2)
   This article gives informations about ML techniques applicable on blockchain data (with blockchain constraints).
-
+- [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813) 
+  Balance dataset with under/over-sampled class (minorities for example).
+  
 ---
 ### Miscellaneous
 

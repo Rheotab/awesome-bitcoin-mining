@@ -21,7 +21,8 @@ Rules :
   Balance dataset with under/over-sampled class (minorities for example).
   
 ##### Graph Embedding 
-[Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829) Representationnal Learning. Can be used to find feature in graph/ subgraph.
+- [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829) Representationnal Learning. Can be used to find feature in graph/ subgraph.
+- [PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM](https://arxiv.org/pdf/1903.12287.pdf) Embedding with good performances, on big multi-graph, distributed, ... April 2019
   
 ---
 ### Miscellaneous

@@ -11,17 +11,14 @@ Rules :
 ---
 ### Bitcoin generality 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
-  Original white paper from Satoshi Nakamoto.
-  
 ---
 ### Machine Learning Misc
 - [Practical machine learning for blockchain datasets understanding](https://medium.com/intotheblock/practical-machine-learning-for-blockchain-datasets-understanding-semi-and-omni-supervised-learning-2a2611695b2)
 - [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813) 
   
 ##### Graph Embedding 
-- [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829) Representationnal Learning. Can be used to find feature in graph/ subgraph.
-- [PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM](https://arxiv.org/pdf/1903.12287.pdf) Embedding with good performances, on big multi-graph, distributed, ... April 2019
-  
+- [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829)
+- [PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM](https://arxiv.org/pdf/1903.12287.pdf) 
 ---
 ### Group adresses as users 
 - [Automatic Bitcoin Address Clustering](https://ieeexplore.ieee.org/abstract/document/8260674)
@@ -30,9 +27,9 @@ Rules :
 - [A graph-based investigation of bitcoin transactions](https://link.springer.com/chapter/10.1007/978-3-319-24123-4_5) . 
 - [Toward De-Anonymizing Bitcoin by Mapping Users Location](https://dl.acm.org/doi/abs/10.1145/2699026.2699128) . 
 - [Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis](https://ieeexplore.ieee.org/abstract/document/8467371). 
-
+---
 ##### Using the Transaction Graph
-- A fistful of bitcoins: characterizing payments among men with no names . 
+- [A fistful of bitcoins: characterizing payments among men with no names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
 - An analysis of anonymity in the bitcoin system . 
 - Structure and anonymity of the bitcoin transaction graph . 
 - Tracking bitcoin users activity using community detection on a network of weak signals . 
@@ -40,7 +37,7 @@ Rules :
 - Identifying Bitcoin Users Using Deep Neural Network . 
 - The Unreasonable Effectiveness of Address Clustering . 
 - Deanonymization and linkability of cryptocurrency transactions based on network analysis . 
-
+---
 ##### Other Techniques 
 - An analysis of anonymity in bitcoin using p2p network traffic . 
 - Deanonymisation of clients in Bitcoin P2P network . 
@@ -53,10 +50,13 @@ Rules :
 ### Classification on Bitcoin
 #### Address Classification
 - [Exchange Pattern Mining in the Bitcoin Transaction Directed Hypergraph](https://link-springer-com.docelec.univ-lyon1.fr/chapter/10.1007/978-3-319-70278-0_16)
+- [An Evaluation of Bitcoin Address Classification based on Transaction History Summarization](https://ieeexplore-ieee-org.docelec.univ-lyon1.fr/abstract/document/8751410)
+- [Scaling Bitcoin Address De-anonymization using Multi-Resolution Clustering](https://blog.zhen-zhang.com/bitscope-public/paper.pdf)
 
 #### Cluster classification
 - [Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550). 
-- [Characterizing entities in the bitcoin blockchain](https://ieeexplore-ieee-org.docelec.univ-lyon1.fr/abstract/document/8637561) 
+- [Characterizing entities in the bitcoin blockchain](https://ieeexplore-ieee-org.docelec.univ-lyon1.fr/abstract/document/8637561)
+
 
 ---
 ### Anomaly detection 

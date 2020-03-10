@@ -56,6 +56,7 @@ Rules :
 #### Cluster classification
 - [Regulating Cryptocurrencies: A Supervised Machine Learning Approach to De-Anonymizing the Bitcoin Blockchain](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550550). 
 - [Characterizing entities in the bitcoin blockchain](https://ieeexplore-ieee-org.docelec.univ-lyon1.fr/abstract/document/8637561)
+- [Cascading Machine Learning to Attack Bitcoin Anonymity](https://www.researchgate.net/publication/336577037_Cascading_Machine_Learning_to_Attack_Bitcoin_Anonymity)
 
 
 ---

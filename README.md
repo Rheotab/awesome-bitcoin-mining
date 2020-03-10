@@ -61,4 +61,3 @@ Rules :
 ---
 ### Anomaly detection 
 - [Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods](https://arxiv.org/abs/1611.03941)
-  K-means, feature extractions, 

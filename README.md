@@ -10,7 +10,8 @@ Rules :
 
 ---
 ### Bitcoin generality 
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
 ---
 ### Machine Learning Misc
 - [Practical machine learning for blockchain datasets understanding](https://medium.com/intotheblock/practical-machine-learning-for-blockchain-datasets-understanding-semi-and-omni-supervised-learning-2a2611695b2)
@@ -19,6 +20,7 @@ Rules :
 ##### Graph Embedding 
 - [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829)
 - [PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM](https://arxiv.org/pdf/1903.12287.pdf) 
+
 ---
 ### Group adresses as users 
 - [Automatic Bitcoin Address Clustering](https://ieeexplore.ieee.org/abstract/document/8260674)
@@ -27,6 +29,7 @@ Rules :
 - [A graph-based investigation of bitcoin transactions](https://link.springer.com/chapter/10.1007/978-3-319-24123-4_5) . 
 - [Toward De-Anonymizing Bitcoin by Mapping Users Location](https://dl.acm.org/doi/abs/10.1145/2699026.2699128) . 
 - [Improving Bitcoin Ownership Identification Using Transaction Patterns Analysis](https://ieeexplore.ieee.org/abstract/document/8467371). 
+
 ---
 ##### Using the Transaction Graph
 - [A fistful of bitcoins: characterizing payments among men with no names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
@@ -37,6 +40,7 @@ Rules :
 - Identifying Bitcoin Users Using Deep Neural Network . 
 - The Unreasonable Effectiveness of Address Clustering . 
 - Deanonymization and linkability of cryptocurrency transactions based on network analysis . 
+
 ---
 ##### Other Techniques 
 - An analysis of anonymity in bitcoin using p2p network traffic . 

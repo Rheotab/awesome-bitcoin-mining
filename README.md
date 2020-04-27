@@ -2,24 +2,11 @@
 
 This repository aims to create a usefull bibliography for those who don't know where to start or are lost in all avalaible documentation. Everything listed here is interesting somehow for someone. Please feel welcome to contribute.  
   
-Rules :  
-- Provide hyperlink when you can.
-- Provide a short description of the reference if needed.
-- No duplicate.
-- Every type of sources accepted (book, articles, blog, ...).
 
 ---
 ### Bitcoin generality 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-
----
-### Machine Learning Misc
-- [Practical machine learning for blockchain datasets understanding](https://medium.com/intotheblock/practical-machine-learning-for-blockchain-datasets-understanding-semi-and-omni-supervised-learning-2a2611695b2)
-- [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813) 
   
-##### Graph Embedding 
-- [Deep Feature Learning for Graphs](https://arxiv.org/abs/1704.08829)
-- [PYTORCH-BIGGRAPH: A LARGE-SCALE GRAPH EMBEDDING SYSTEM](https://arxiv.org/pdf/1903.12287.pdf) 
 
 ---
 ### Group adresses as users 
@@ -51,7 +38,6 @@ Rules :
 ### Information on bitcoin blockchain users.
 - [The evolution of the bitcoin economy: Extracting and analyzing the network of payment relationships](https://www.emerald.com/insight/content/doi/10.1108/JRF-03-2017-0059/full/html). 
 
-### Classification on Bitcoin
 #### Address Classification
 - [Exchange Pattern Mining in the Bitcoin Transaction Directed Hypergraph](https://link-springer-com.docelec.univ-lyon1.fr/chapter/10.1007/978-3-319-70278-0_16)
 - [An Evaluation of Bitcoin Address Classification based on Transaction History Summarization](https://ieeexplore-ieee-org.docelec.univ-lyon1.fr/abstract/document/8751410)
